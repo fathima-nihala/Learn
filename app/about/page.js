@@ -2,7 +2,7 @@
 
 export const metadata = {
     title: "About Us Page",
-    description: "LearnCode is described here "
+    description: "LearnCode is described here  "
 }
 
 const About = () => {
